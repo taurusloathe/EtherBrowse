@@ -1,2 +1,2 @@
-# Google-Chrome-Extension-For-ETH-Mining
-Google Chrome Extension for mining ETH using browser GPU
+# EtherBrowse
+Google Chrome Extension for mining ETH using GPU power in browser
