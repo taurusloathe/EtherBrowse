@@ -1,3 +1,3 @@
 # EtherBrowse
 
-Google Chrome Extension that allows you to mine ETH using GPU power in browser, allowing you to profit by simply surfing the web 
+Google Chrome Extension that allows users to simulate mining ETH using GPU power while surfing the web
